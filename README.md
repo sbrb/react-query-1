@@ -1,1 +1,1 @@
-# react-ruery-1
+## https://react-query-1.netlify.app/
